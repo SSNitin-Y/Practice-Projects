@@ -8,7 +8,7 @@ Your goal is to create a webpage that introduces you, shows your skills and proj
 
 ## Project File
 
-- [ ] Create a file named `index.html`
+- [x] Create a file named `portfolio.html`
 
 ---
 

@@ -14,13 +14,13 @@ Your goal is to create a webpage that introduces you, shows your skills and proj
 
 ## 1. Page Setup
 
-- [ ] Add the basic HTML structure
-- [ ] Add `<!DOCTYPE html>`
-- [ ] Add the `<html>` tag
-- [ ] Add the `<head>` tag
-- [ ] Add the `<title>` tag
-- [ ] Add the `<body>` tag
-- [ ] Set the browser tab title to `Nitin | Portfolio`
+- [x] Add the basic HTML structure
+- [x] Add `<!DOCTYPE html>`
+- [x] Add the `<html>` tag
+- [x] Add the `<head>` tag
+- [x] Add the `<title>` tag
+- [x] Add the `<body>` tag
+- [x] Set the browser tab title to `Nitin | Portfolio`
 
 Example:
 
@@ -34,9 +34,9 @@ Example:
 
 At the top of the page, include:
 
-- [ ] Your name as the main heading
-- [ ] A short tagline
-- [ ] A navigation menu
+- [x] Your name as the main heading
+- [x] A short tagline
+- [x] A navigation menu
 
 Suggested tagline:
 
@@ -46,10 +46,10 @@ Aspiring Data Analyst and Tech Enthusiast
 
 Navigation links should go to:
 
-- [ ] About Me
-- [ ] Skills
-- [ ] Projects
-- [ ] Contact
+- [x] About Me
+- [x] Skills
+- [x] Projects
+- [x] Contact
 
 The links should move to sections on the same page.
 
@@ -67,14 +67,14 @@ Create a section titled **About Me**.
 
 Include:
 
-- [ ] A heading: `About Me`
-- [ ] One paragraph introducing yourself
-- [ ] A profile image
+- [x] A heading: `About Me`
+- [x] One paragraph introducing yourself
+- [x] A profile image
 
 Image options:
 
-- [ ] Use an online placeholder image
-- [ ] Or use an image saved in your project folder
+- [x] Use an online placeholder image
+- [x] Or use an image saved in your project folder
 
 ---
 
